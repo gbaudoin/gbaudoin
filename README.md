@@ -1,15 +1,23 @@
 ### Let's do this
 
-- 💬 Ask me about ...
+## 🔭 I’m currently working on ...
+- The Web presence of a fintech Unicorn
+
+
+## 💬 Ask me about ...
 - Your website.
 - Drupal 7/8/9 migrations
 - Cheap, simple and secure web site hosting for your club, your small side business or your huge corporation.
 
-- 🌱 I’m currently trying to keep up with ...
+## 🌱 I’m currently trying to keep up with ...
   - VueJS
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
+  - Regenerative agriculture
   - React
+  
+  
+  
 
 
 <!--
