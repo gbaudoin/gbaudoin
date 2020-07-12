@@ -1,4 +1,16 @@
-### Hi there 👋
+### Let's do this
+
+- 💬 Ask me about ...
+- Your website.
+- Drupal 7/8/9 migrations
+- Cheap, simple and secure web site hosting for your club, your small side business or your huge corporation.
+
+- 🌱 I’m currently trying to keep up with ...
+  - VueJS
+
+- 🌱 I’m currently learning ...
+  - React
+
 
 <!--
 **gbaudoin/gbaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
