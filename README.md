@@ -1,13 +1,14 @@
 ### Let's do this
 
 ## 🔭 I’m currently working on ...
-- The Web presence of a fintech Unicorn
+- Migration of WordPress/Laravel/Drupal 7 sites to Drupal 9/10
+- DevOps tooling for Drupal 9/10
 
 
 ## 💬 Ask me about ...
-- Your website.
+- Your website and online presence.
+- Cybersecurity training for your workforce.
 - Drupal 7/8/9 migrations
-- Cheap, simple and secure web site hosting for your club, your small side business or your huge corporation.
 
 ## 🌱 I’m currently trying to keep up with ...
   - VueJS
@@ -18,8 +19,6 @@
   
   
   
-
-
 <!--
 **gbaudoin/gbaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
